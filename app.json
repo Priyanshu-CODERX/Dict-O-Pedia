@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Dict-O-Pedia",
+    "slug": "snack-5f3f0d7d-1003-46d7-a07d-e55c893512ca",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.priyanshucoderx.dictopedia"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
